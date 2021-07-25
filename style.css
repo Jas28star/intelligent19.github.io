@@ -2,12 +2,12 @@
   margin: 0;
   padding: 0;
 } */
-a{
-  text-decoration:none;
-  color:#000;
+a {
+  text-decoration: none;
+  color: blue;
 }
-a:hover{
-  color:red;
+a:hover {
+  color: red;
 }
 
 body {
